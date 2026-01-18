@@ -25,6 +25,9 @@ This project analyzes hotel booking data to understand cancellation patterns and
 - City hotels experience more cancellations than resort hotels
 - Online bookings have higher cancellation rates
 
+## Business Recommendation
+Hotels should offer flexible booking options, provide special offers or discounts for early or loyal customers, and monitor booking trends to plan better and minimize revenue loss.
+
 
 ## ✅ Conclusion
 This analysis helps hotels reduce cancellations and improve revenue management strategies.
